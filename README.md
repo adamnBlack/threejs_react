@@ -1,4 +1,4 @@
-This project project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It uses Node.js and Yarn.
+THREE_REACT_PROJECT
 
 ## Getting Started (for Beginners)
 
